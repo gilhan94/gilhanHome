@@ -1,2 +1,2 @@
 # gilhanHome
-Home Gilhan Page, for Personal Website Profile KECE
+Home Gilhan Page, for Personal Website Profile
