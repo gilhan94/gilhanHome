@@ -1,2 +1,2 @@
 # gilhanHome
-Home Gilhan Page, for Personal Website Profile
+My Personal Home Page, for Personal Website Profile
